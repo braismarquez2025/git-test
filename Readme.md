@@ -1,5 +1,5 @@
 #  Hola, mi nombre es Brais Márquez 👋
-### Desarrollador Full-Stack 
+### 💻 Desarrollador Full-Stack 
 
 ¡Gracias por visitar mi perfil! Soy un desarrollador full-stack con ganas de aprender y construir grandes proyectos. Me apasiona el desarrollo web y actualmente estoy mejorando mis habilidades en Django y Javascript.
 
